@@ -1,0 +1,2 @@
+# AcceptanceEmail
+Spam Acceptance Email
