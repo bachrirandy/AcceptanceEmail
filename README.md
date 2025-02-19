@@ -13,9 +13,13 @@ This project is a Python script that automatically sends emails based on data re
 ## 📂 File Structure
 
 |-- email_sender.py # Main script for sending emails 
+
 |-- email.html # Email template for accepted recipients 
+
 |-- email_rejection.html # Email template for rejected recipients 
+
 |-- recipients.csv # CSV file containing recipient details 
+
 |-- README.md # Project documentation
 
 
